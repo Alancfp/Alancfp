@@ -1,6 +1,6 @@
 ### Olá!
 Estou no momento de transição de carreira, 
-## É galera sou mais uma músico frustado que vem para se tornar DEV.
+## É galera sou mais um  à se tornar um DEV.
 A uns 15 anos atrás eu fiz o 1º periodo de engenharia da computação, e só agora venho concluir um velho sonho.
 Peço ajuda a quem puder ajudar para serem meus mentores, meus amigos de profissão e amigos pessoais, e espero que em algum dia possa 
 retribuir toda a ajuda adquirida.
